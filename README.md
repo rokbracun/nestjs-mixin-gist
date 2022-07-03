@@ -1,6 +1,6 @@
 ## Description
 
-This is an example of using mixins in NestJS. The example of mixin usage can be found in `person.repository`, while the repository mixin itself is implemented in `base.repository` in `src/commons`. Car repository is an example of a regular repository.
+This is an example of using mixins in NestJS. The example of mixin usage can be found in `person.repository`, while the repository mixin itself is implemented in `base.repository` in `src/common`. Car repository is an example of a regular repository.
 Additionally, mixin is also used to add a relation to an entity, just to demonstrate another possible usage.
 Mixins could also be used in controllers and services. 
 
